@@ -1,1 +1,1 @@
-# Deep Learning Projects in TensorFlow ans Keras
+# Deep Learning Projects in TensorFlow and Keras
